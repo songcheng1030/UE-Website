@@ -1,0 +1,29 @@
+.ant-input-affix-wrapper {
+  border-color: #374151;
+  border-radius: 4px;
+}
+
+.ant-modal {
+  border-radius: 15px;
+  /* Only border-radius here */
+}
+
+.ant-modal-content {
+  border-radius: 15px;
+  /* border: 10px solid black; */
+}
+
+/* .ant-input {
+  background-color: #374151 !important;
+  color: #C6CBD1;
+  border-radius: 2px;
+}
+.ant-input-status-error:not(.ant-input-disabled):not(.ant-input-borderless).ant-input, .ant-input-status-error:not(.ant-input-disabled):not(.ant-input-borderless).ant-input:hover{
+  background-color: #374151 !important;
+}
+.ant-input-status-error:not(.ant-input-disabled):not(.ant-input-borderless).ant-input{
+  background: #374151;
+}
+.ant-input-affix-wrapper-status-error:not(.ant-input-affix-wrapper-disabled):not(.ant-input-affix-wrapper-borderless).ant-input-affix-wrapper{
+  background: #374151;
+} */

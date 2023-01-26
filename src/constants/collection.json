@@ -1,0 +1,42 @@
+{
+    "collection1": [ 
+        {
+            "image":"UEA-NFT-LOGO-Plot.png",
+            "header": "Unbounded.Earth - Land Parcels",
+            "firstline":"What is a metagalaxy without virtual land that users can own?  It certainly isn’t decentralized… \n ",
+            "text": "Unbounded.Earth Land Parcels are NFTs that grant ownership of a plot of land in the Unbounded.Earth metagalaxy.  Land Parcels are minting in 3 phases totaling 100,000 Parcels.  The first phase of 39,000 is SOLD OUT!!!  Phases 2 & 3 will mint supplies of 31,000 and 30,000 Land Parcels respectively; timing on these mints will be determined by several market & community factors.  Follow our socials and participate in our Discord community to stay up to date on development!"        
+        },   
+        {
+            "image":"UEA-NFT-LOGO-Moretocome.png",
+            "header": "In-Game NFT Item Categories",
+            "firstline":"It’s crucial that we plan a system that maintains both value and balance across in-game NFT properties… \n ",
+            "text": "In an online game, particularly one where players are competing to earn valuable prizes, it’s crucial to be able to balance and adjust mechanics, including sometimes item stats.  To do this while honoring the permanence of NFT-based digital property, we have come up with a system that groups our NFT items into categories.  These categories include Weapons, Armor, Consumables, Tomes, Skins, Tools, Decorations, Vehicles, and Pets. \n We will always be developing and releasing new collections of all sorts of items that will be useful in our metagalaxy, so follow U.E wherever you like to stay current on projects to know what’s coming next!!!"
+        }    
+    ],
+    "collection2": [ 
+        {
+            "image":"UEA-NFT-LOGO-GRW.png",
+            "header": "Unbounded.Weapons - Gladiator Genesis",
+            "firstLine":"Gladiator Royale is coming!  Prepare for battle with legendary armaments from U.E’s first collection of NFT weapons! \n ",
+            "text": "At Unbounded.Earth we believe that fun, engaging gameplay should come first in any virtual world aspiring to develop a robust and sustainable economy.  Who will engage with all of the content landholders develop if not players enjoying a diverse world of games & activities?  It is Unbounded.Earth’s responsibility as the creators and stewards of this metagalaxy to lead by example, drawing in big audiences with a big game.  As such, we are developing an innovative gladiator style battle royale game in Unbounded.Earth!  Gladiator Royale will take advantage of several NFT items which U.E will be distributing, starting with the Gladiator Genesis collection of Greco-Roman inspired weapons!"        
+        },   
+        {
+            "image":"UEA-NFT-LOGO-AlphaPass.png",
+            "header": "Unbounded.Earth - Alpha Access Tablets",
+            "firstLine":"Like a flash pass at your favorite amusement park, the Alpha Access Tablet keeps you ahead of the game! \n",
+            "text": "Limited to only 5,000 NFTs, Unbounded.Earth’s Alpha Access Tablets grant holders access to a variety of benefits in the U.E universe!  Enjoy early access to the metagalaxy as an alpha tester, early access to future content, discounts on U.E NFT mints forever (excluding Land Parcels), discounts on merchandise & event access, the first season’s battle pass for free, and more!  There are four different rarities of Alpha Access Tablets and in some circumstances a more rare pass may grant a more rare reward; for instance Ruby tablet holders will get 2 weeks early access to the metagalaxy where Emerald will get 4, Sapphire will get 6, and Diamond will get 8 weeks early access!"
+        },   
+        {
+            "image":"UEA-NFT-LOGO-PineapplePizza.png",
+            "header": "Unbounded.Consumables - Pineapple Pizza",
+            "firstLine":"Some think pineapple on pizza is a crime.  We think that’s silly - sharing things you enjoy is nothing to be ashamed of! \n ",
+            "text": "Once upon a time a particularly important figure in the Cardano community caused a stir in our world about pineapple on pizza.  They thought it was worthy of loathing and detestation.  Lines were drawn, and U.E chose to remain on the right side of history.  Nobody should attempt to tell anybody how they can and can’t enjoy pizza.  The true U.E OGs will forever remember this time with the Pineapple Pizza NFTs.  They are an ultra-rare supply of 100 extremely powerful consumables that can only be won by participating in the U.E ecosystem’s many games & activities."
+        },     
+        {
+            "image":"UEA-NFT-LOGO-SnowGlobe.png",
+            "header": "Unbounded.Decorations - Season 1 (Winter 2022) Snow Globe",
+            "firstLine":"A souvenir for those who owned U.E Land Parcels during our first season, Winter 2021-2022 in the Northern Hemisphere! \n ",
+            "text": "To honor those who have been with us since the beginning - that first winter we all braved together as a young, determined, starry-eyed community - we have given a special snow globe souvenir!  These were airdropped to any wallet holding U.E plots the moment seasons changed from Winter to Spring in the Northern Hemisphere in 2022.  Moving forward we will be using a claim system for seasonal freebies, including the Season 1 Discord community reward (which is still in development).  Claim windows will be limited so be sure to pay attention to socials, and particularly updates in our Discord server!!"
+        }     
+    ]   
+}

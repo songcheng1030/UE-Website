@@ -1,0 +1,55 @@
+[
+    {
+        "question": "What is Unbounded.Earth?",
+        "answer": "Unbounded.Earth is a community-driven Cardano metagalaxy currently in development. The U.E ecosystem has a lot to offer, but at its core is a virtual world designed in a beautiful voxel style that is divided into plots. U.E is developing tons of gamified content in this world, but a majority of the plots are privately owned by individuals who seek to use them for a variety of purposes including developing their own monetized gamified content, hosting virtual space for business meetings, running metaverse event spaces, or just building a quiet private home to chill in the metaverse."
+    },
+    {
+        "question": "What is the metaverse?  What is a metagalaxy?",
+        "answer": "These are big questions today, and the truth is that these words are still being defined. This would be like asking what the internet is in the 1980s - a handful of particularly innovative people had a variety of innovative ideas of what it could be, but the protocols were still being written and there was still a chance it would be broken up into several privatized internets (fortunately TCP/IP was ultimately established in a decentralized manner, which is our hope for the inevitable metaverse protocols that emerge, as well). \n \n Neal Stephenson coined the name The Metaverse in his 1992 cyberpunk novel Snow Crash, where it was essentially a VR simulation of another world - a world with far fewer limitations than the physical world. The book was a science fiction thriller, but many of the concepts it introduced have inspired technological developments in this emerging industry. Today, after years of consulting tech companies on potential metaverse opportunities, Stephenson himself is operating a blockchain-based tech company developing metaverse tools. \n \n Matthew Ball, in his book The Metaverse: and How It Will Revolutionize Everything, defines The Metaverse (which he always capitalizes, like the centralized product The Metaverse from Snow Crash) as: “A massively scaled and interoperable network of real-time rendered 3D virtual worlds that can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.” In this book he also says “within the Metaverse, there might be ‘metagalaxies’ (not capitalized), a collection of virtual worlds that all operate under a single authority and that are clearly connected by a visual layer.” \n \n At Unbounded.Earth we believe that all virtual world platforms - from big corporate MMORPGs to independent games being built around blockchain technology - are participating in the process of establishing what the metaverse or a metaverse will look like, if the space will overall be decentralized or privatized, and how exactly these metagalaxies will look & function once the next iteration of the internet (what some call “Web3”) is fully established. Though metagalaxies are still such a niche concept that the definition is worthy of some discussion, we believe that mass adoption of metaverse technology is inevitable. U.E is positioned to gain a foothold in the metaverse industry so we can best play our part in bringing about this technological revolution!"
+    },
+    {
+        "question": "What can I do with my land parcels?",
+        "answer": "Unbounded.Earth Land Parcel NFTs are essentially the deeds for plots of private land in the U.E metagalaxy game world. On this land you will be able to develop whatever you desire within the game’s guidelines, whether that be a house to chill with your friends in, a shop to sell digital or physical goods from, a game you can charge users admission to play, or virtual billboard advertising space you can rent out to other Earthlings creating other content!"
+    },
+    {
+        "question": "What are the specifications for building on my land?",
+        "answer": "The precise rendering budget & graphic specifications are currently being finalized, but plot size specifications in meters have been established. \n \n Individual 1x1 plots are square parcels of 26x26m in total, with 16mx16m of buildable space, a 1m sidewalk around the entire perimeter, and a 4m road lane around the sidewalk. Plots connect to each other at the road, making all of the roads in U.E 2 lanes. \n \n When two or more adjacent plots are held in the same wallet, the owner will have the ability to disable easements (sidewalks & roads) between the buildable space on their plots, opening up an extra 10x16m of buildable space per side-by-side connection and another 10x10m in the crossroads when 4+ plots are connected in a square. \n \n Estates of 9 plots will come with the easements deactivated by default, making their buildable space 68x68m."
+    },
+    {
+        "question": "Does Unbounded.Earth make other NFTs besides land plots?",
+        "answer": "Yes! U.E is developing a system for categorizing different types of NFT items with different in-game utilities, such as the Unbounded.Weapons - Gladiator Genesis collection of weapons to be used in the Gladiator Royale PvP game (currently in development). This system is designed to offer permanence of the virtual property, to provide collectible value by utilizing rarity traits & other techniques to create scarcity, and most importantly to be able to be balanced as gameplay evolves with our ever-changing community. \n \n Some NFTs’ use cases go beyond gameplay utility, as well. For example, the Alpha Access Tablets grant early access to the game, discounts on future NFT mints, and exclusive access to all kinds of future content."
+    },
+    {
+        "question": "Do you have a native token?",
+        "answer": "Yes, it’s called $EARTH token! Unbounded.Earthlings will be able to utilize $EARTH for purchases in-game and in other avenues of our product ecosystem. There is a total supply of 3,316,000,000 $EARTH tokens. As homage to the Cardano blockchain, this number was chosen by adding the birth years of Ada Lovelace (1815) and Gerolamo Cardano (1501). \n \n We have airdropped a portion of the supply of $EARTH to holders of land from the first land parcel mint, and a large portion of the remaining supply will go to holders of the remaining plots to be minted. $EARTH is verified on SundaeSwap and Minswap. $EARTH has much more utility coming as we build out our ecosystem!"
+    },
+    {
+        "question": "What game engine are you building the game in?",
+        "answer": "We are using Unity! Unity offers reliable compatibility with a wide range of devices, lower barriers to entry as a result of this, and it is well known for handling online gameplay well."
+    },
+    {
+        "question": "When will the Alpha test phase begin?",
+        "answer": "As it stands, the current plan is to begin alpha testing during the holiday season before the end of 2022."
+    },
+    {
+        "question": "How can I get involved in the community?",
+        "answer": "Follow us on your favorite social media platform, subscribe to our Twitch channel where we frequently give live development updates, and the best way to get involved is to participate in our Discord server where you can chat with other Unbounded.Earthlings & hang out with the team!"
+    },
+    {
+        "question": "What secondary markets will the project's collections be listed on?",
+        "answer": "- Jpg.store \n - Cnft.io (bundles for estates and single plots) \n - Epoch.art \n - Cardahub.io \n - Tokhun.io \n - Genesishouse.io"     
+    },
+    {
+        "question": "Does Unbounded.Earth operate a Cardano stake pool??",
+        "answer": "Yes, it offers ADA and $EARTH as rewards! You can stake your wallet to the Unbounded.Earth Stake Pool (UESP) by following the instructions found here:",
+        "link":"/stake"
+    },
+    {
+        "question": "Are there different types of land plots?",
+        "answer": "There are four types of plots themed to the four seasons: Winter, Summer, Autumn, and Spring. Seasonal effects in the world will ultimately be stronger the further you go from the center of the map once the V1 game release launches, but this will look different during alpha & open beta test phases."
+    },
+    {
+        "question": "Where can I view my land parcels on a map?",
+        "link": "https://explorer.unbounded.earth/"
+    }
+]

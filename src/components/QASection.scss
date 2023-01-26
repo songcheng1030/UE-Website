@@ -1,0 +1,66 @@
+.accordion-item {
+  $self: &;
+
+  &--opened {
+    #{ $self }__inner {
+      max-height: 100rem;
+      transition-timing-function: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+      transition-duration: 0.5s;
+      transition-property: max-height;
+    }
+
+    #{ $self }__content {
+      opacity: 1;
+      transform: translateY(0);
+      transition-delay: 0.2s;
+      transition-timing-function: ease-in-out;
+      transition-duration: 0.2s;
+      transition-property: opacity, transform;
+    }
+  }
+
+  &__line {
+    display: block;
+    padding: 0.8rem 1.2rem;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+    position: relative;
+    cursor: pointer;
+  }
+
+  &__title {
+    font-size: 1.6rem;
+    margin: 0;
+    font-weight: 700;
+  }
+  &__inner {
+    max-height: 0;
+    overflow: hidden;
+    text-transform: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+    transition-duration: 0.5s;
+    transition-property: max-height;
+    z-index: 1;
+    position: relative;
+  }
+
+  &__content {
+    opacity: 0;
+    transform: translateY(-1rem);
+    transition-timing-function: linear, ease;
+    transition-duration: 0.1s;
+    transition-property: opacity, transform;
+    transition-delay: 0.5s;
+    padding: 0 1.2rem 1.2rem;
+  }
+
+  &__paragraph {
+    margin: 0;
+    padding-left: 32px;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.3;
+  }
+}
+
+

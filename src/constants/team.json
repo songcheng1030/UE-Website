@@ -1,0 +1,58 @@
+[
+    {
+        "name": "SHANE - Founder/CEO",
+        "id": "ChromeNinja",
+        "text": "Shane brings to Unbounded Earth 7+ years of Systems Administrator experience and 4+ years of programming and development experience. He is passionate for technology, back end systems administration, PowerShell scripting, and the world of development; where his passion for tech continued to grow. With his knowledge and love for cryptocurrency, he is able to put his passion and experience into a project built for the community, and by the community. Shane believes the key to success is building a strong team around him that has the skills and expertise to make an organization thrive.",
+        "link": "https://twitter.com/OfficialUEShane",
+        "image": "Shane.png"
+    },
+    {
+        "name": "TONY - CTO",
+        "id": "BlockchainBodhi",
+        "text": "Tony [BlockchainBodhi] brings to Unbounded Earth 10+ years of Enterprise Systems Analyst and 5+ years of Project Management experience, with an educational background in Business Management/IT/Computer Science, as well as prior Teaching experience in Object Oriented Programming/Game Design. He has experience working directly with Fortune 10 Companies, such as Alphabet/Google, in procuring contracts for an organization with a staff force of 10K+ \n Bodhi was one of the first to participate in minting CNFTs with NFT-Maker, which led to becoming an NFT/Art collector himself. He is the owner of BlockchainBodhi Studios, and a member of several Cardano Community CNFT DAOs, and actively participates in the voting process. His hobbies include a variety of outdoor activities, but has a preference for going to the beach and to theme parks. He enjoys all types of games but specifically appreciates a good FPS or Flight Simulator game.",
+        "link": "https://twitter.com/bchainbodhi",
+        "image": "Tony.png"
+    },
+    {
+        "name": "Sterling - CPO",
+        "id": "Xeperu",
+        "text": "Sterling is an Entrepreneur and product developer with a history of consulting, opening, and operating lean startups across a variety of industries from service to technology. Educated in innovation and entrepreneurship, he is a visionary strategist that brings a creative approach to solving problems in the emerging metaverse industry. As long as blockchain has been around, Sterling has maintained an interest regarding the potential for technological innovation and decentralization, but without serious interest in trading currencies it wasn’t until NFTs started gaining traction that he aped into the ecosystem, enticed by the allure of functional virtual property.  Being an avid gamer his whole life, Sterling’s focus in the NFT space has been on gaming and entertainment utility.  His favorite games are classic platformers like Metroid and Mario games, but he also loves vast open-world RPGs and unique competitive games with addictive mechanics.  Beyond business sciences, Sterling is also a lifelong student of both musical and culinary arts.",
+        "link": "https://twitter.com/Xeperu42",
+        "image": "Sterling.png"
+    },
+    {
+        "name": "Adrian - COO",
+        "id": "Ace_In_Space",
+        "text": "Adrian is an accomplished operations manager, decorated military veteran, father, and Cardano enthusiast who is ready to change the world. After serving ten years in the US Navy, he left the service in search of his passion- what he found were NFTs, blockchain technology, and a community of like-minded individuals from around the globe. His goal is to provide successful leadership of multi-disciplinary teams and Project Management in all phases of the project life cycle. Adrian is known for process improvement, organizational expertise, and for building a diverse and empowering company culture.",
+        "link": "https://twitter.com/Ace_in_space__",
+        "image": "Adrian.png"
+    },
+    {
+        "name": "Paul - HR Manager",
+        "id": "Pmt1217",
+        "text": "With years of experience in Human Resources and nonprofit management, Paul brings a keen passion for building company culture to Unbounded.Earth. He has a proven track record of empowering individuals from differing backgrounds towards a common goal. Equipped with a love for cryptocurrency he is very excited to be an integral part of bringing new talent on board for Unbounded.Earth. In his free time he enjoys watching sports, going on hikes, and spending time with family and friends.",
+        "link": "",
+        "image": "Paul.png"
+    },
+    {
+        "name": "Johnny - Marketing Lead",
+        "id": "Johnny Tran",
+        "text": "Johnny is an experienced executive leader in managing large complex businesses for over eighteen years. He is highly skilled at creating strategies, effective decision making and processes that enhance the overall levels of productivity. Johnny’s favorite hobby is filming and editing. He previously worked with VICE MEDIA in filming several documentaries in Los Angeles, CA. Furthermore, he loves the crypto space ever since investing in Cardano at $0.03 ADA. He is a family man of 4 and loves to eat PHO! Johnny is a “Jack of all trades’’.",
+        "link": "https://twitter.com/cryptovidboss",
+        "image": "Johnny.png"
+    },
+    {
+        "name": "Joshua - Lead Game Dev",
+        "id": "Nichojay",
+        "text": "Josh is an avant-garde creative whose emphasis lies in keeping a healthy balance between functionality and visual impact. He has 6+ years of experience in game development, virtual and augmented reality and other interactive digital media technologies. He has previously worked as a game development instructor at Microsoft NWT and Coding Dojo. Josh’s favourite hobby is gaming and sound design. He is a part-time trader and specifically loves the intersection between blockchain and gaming.",
+        "link": "https://twitter.com/Nicho_jayy",
+        "image": "Joshua.png"
+    },
+    {
+        "name": "Matt - Lead Game Designer",
+        "id": "Deluxe0111",
+        "text": "Matt is a Game Artist driven by a passion for virtual social worlds and creating experiences and spaces to fuel virtual interaction and connectivity. Matt worked with a start-up called Ristband as the Development Team Lead, guiding the development and art style of Risbands Live VR Music Experience. This experience was developed for a band called Miroshot who perform on stage while 50 audience members are sent flying through a mixed reality experience. This experience was recently successfully debuted at SXSW 2022. During this time with Ristband, Matt also assisted them in completing Digital Catapult’s 5G Accelerator and Augmentor programs, exploring how 5G can be used to stream 3D Models and Animations in real-time. Matt has worked on various virtual world platforms building environments, such as Ristband’s Virtual World Prototype which explored bringing live music performances to a virtual world, also Living Libraries celebrating the past, present, and future of libraries around the United Kingdom.",
+        "link": "https://twitter.com/Deluxe0111_Matt",
+        "image": "Matt.png"
+    }
+]

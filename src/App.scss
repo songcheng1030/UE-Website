@@ -1,0 +1,156 @@
+@import '~antd/dist/antd.css';
+
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    border-radius: 8px !important;
+    border-color: #EBEDF0 !important;
+}
+
+.ant-input-number {
+    border-radius: 8px !important;
+    border-color: #EBEDF0 !important;
+}
+
+// .ant-modal-body {
+//     padding: 45px;
+// }
+
+.ant-progress-circle .ant-progress-text {
+    color: #9C40CF;
+}
+
+.fileContainer{
+    box-shadow: unset !important;
+    border: unset !important;
+    display: unset !important;
+    padding: 0 !important;
+}
+
+.image-loading {
+    width: 100%;
+    height: 432px;
+    background: linear-gradient(to right, rgb(227, 230, 232), rgb(246, 248, 250), rgb(227, 230, 232)) left center / 200%;
+    border-radius: 14px;
+    animation: 2s ease-out 1s infinite normal none running hnGeRd;
+}
+
+.text-overflow {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.walletSelect .ant-select-selector{
+    height: 74px !important;
+}
+
+.shim-red {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(90deg, #68229D 0%, #A042D2 100%);
+}
+
+.shim-red::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(-100%);
+//   background-image: linear-gradient(
+//     90deg,
+//     rgba(233, 233, 233, 1) 0,
+//     rgba(233, 233, 233, 0.9) 50%,
+//     rgba(233, 233, 233, 0.8) 100%
+//   );
+    background: linear-gradient(90deg, #FFFFFF 0%, #A042D2 0%, #FFFFFF 0.01%, #FFFFFF 96.92%);
+
+  animation: shimmer 3s ease-out infinite;
+  content: "";
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(0%);
+    opacity: 0;
+  }
+}
+
+.quantity input {
+  text-align: center !important;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
+  color: #151515 !important;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.ant-tabs-tab .ant-tabs-tab-btn{
+  color: #7D7C88 !important;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active {
+  border-bottom: 2px solid #522294 !important;
+  border-bottom-width: 4px !important;
+  z-index: 2;
+}
+
+.ant-tabs-tab {
+  padding: 8px 0 !important;
+}
+
+
+.ant-modal-content {
+  background-color: #061415;
+  
+}
+.ant-modal-body {
+  padding: 0 !important;
+}
+
+.button--pan {
+	font-family: aktiv-grotesk-extended, sans-serif;
+	font-weight: 700;
+	border: 2px solid #000;
+	border-radius: 3rem;
+	overflow: hidden;
+	color: #fff;
+}
+
+.button--pan span {
+	position: relative;
+	mix-blend-mode: difference;
+}
+
+.button--pan::before {
+	content: '';
+	background: #000;
+	transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+}
+
+.button--pan:hover::before {
+	transform: translate3d(0,-100%,0);
+}
+
+
+.group:hover .group-hover\:scale-105 {
+  --tw-scale-x: 1.05;
+  --tw-scale-y: 1.05;
+  transform: var(--tw-transform);
+}
+.group:hover .group-hover\:scale-110 {
+  --tw-scale-x: 1.1;
+  --tw-scale-y: 1.1;
+  transform: var(--tw-transform);
+}
+.group:hover .group-hover\:contrast-100 {
+  --tw-contrast: contrast(1);
+  filter: var(--tw-filter);
+}
+
+.tooltip {
+  cursor: url('./assets/images/icons/click-here-1.png'), auto;     /* Modern browsers    */
+}
